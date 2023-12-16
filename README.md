@@ -46,9 +46,13 @@ On the host 192.168.65.178, the flow chart in Wireshark shows significant floode
 <img src="https://imgur.com/xEyViPB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+In Wireshark:  <br/>
+The average Packets Per Second (PPS) is 45320.9/s and 70% of the packets were
+dropped. It is clear that compared to level 2, there was a huge amount of packets
+running.
+<img src="https://imgur.com/jlPUQsZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<img src="https://imgur.com/Tt1VDNQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
