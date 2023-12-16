@@ -65,10 +65,12 @@ TCP Flooding attack was done in a similar way, the command was “$sudo hping3
 <br />
 <br />
 Firewall for ICMP flooding attack:  <br/>
- <br/>
- <br/>
+<br/>
+<br/>
 Using firewalls are helpful in defending possible network attacks. To block ICMP attacks
 we implemented the rules in iptable command. The rules are:
+<br/>
+<br/>
 <img src="https://imgur.com/zoicLIM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
