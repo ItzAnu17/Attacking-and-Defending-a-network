@@ -114,7 +114,7 @@ However, we still observed the flooding traffic as shown in these following imag
 when comparing to previous levels.
 <br/>
 <img src="https://imgur.com/I5HYcmZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/G1lRkfF" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/G1lRkfF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
