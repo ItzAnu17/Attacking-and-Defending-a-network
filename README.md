@@ -79,7 +79,7 @@ limit the ICMP packet rate. After we performed an ICMP flooding attack again, �
 response” packets were sniffed, which is different from level 3’s results, so we assume
 the firewalls are functioning.  <br/>
 
-<img src="https://imgur.com/zoicLIM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/8SxmBXb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!-- 
