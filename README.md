@@ -108,6 +108,12 @@ level3, so the firewall should be working:
 <br/>
 <br/>
 <img src="https://imgur.com/fTdH5IT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br/>
+However, we still observed the flooding traffic as shown in these following images
+when comparing to previous levels.
+<br/>
+<img src="https://imgur.com/I5HYcmZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
