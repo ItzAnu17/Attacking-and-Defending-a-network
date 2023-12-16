@@ -18,8 +18,8 @@ The goal of the project is to create a small network, analyse ICMP and TCP packe
 <h2>Project Details</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+A small network was created with 4 users and a switch: <br/>
+<img src="https://imgur.com/undefined.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
