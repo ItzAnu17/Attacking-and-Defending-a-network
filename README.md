@@ -60,6 +60,14 @@ TCP Flooding Attack:  <br/>
 TCP Flooding attack was done in a similar way, the command was “$sudo hping3
 192.168.65.178 -S -p 22 --flood”
 <img src="https://imgur.com/WeTxCFf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<br />
+Firewall for ICMP flooding attack:  <br/>
+Using firewalls are helpful in defending possible network attacks. To block ICMP attacks
+we implemented the rules in iptable command. The rules are:
+<img src="https://imgur.com/zoicLIM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!-- 
