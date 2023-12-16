@@ -89,6 +89,9 @@ firewall has been implemented, this could be due to:
 
 The explanation is Wireshark captures them before they are dropped by iptables:
 We expected that we will not see any ICMP from the attackers IP, however this is not the case. Our assumption is we only have two interfaces here instead of three, so the victim still gets the packets, but no response shows that. The confusing display of captured packets in Wireshark is since both Wireshark and iptables filtering are taking place using the same interface, eth0. An interpretation could be that while Wireshark is aware of the incoming echo_request packets, iptables is dropping these packets, resulting in their absence from the Wireshark capture.
+<img src="https://imgur.com/i1u98p9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://imgur.com/vcUcb71.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 
