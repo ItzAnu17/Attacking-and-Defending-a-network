@@ -15,7 +15,7 @@ The goal of the project is to create a small network, analyse ICMP and TCP packe
 
 - <b>Kali Linux</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Project Details</h2>
 
 <p align="center">
 Launch the utility: <br/>
