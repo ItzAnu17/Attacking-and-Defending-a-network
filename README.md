@@ -1,4 +1,4 @@
-<h1>Attacking anf monitoring a network</h1>
+<h1>Attacking and monitoring a network</h1>
 
 
 <h2>Description of the Project</h2>
