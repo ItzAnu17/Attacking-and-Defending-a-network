@@ -37,7 +37,7 @@ shows 192.168.65.178 (Anaaf) receiving TCP packets which are sent by
 ICMP flooding attack.<br/>
 Two devices were used to attack a single PC. By using the command “$sudo hping3 -1 -flood 192.168.65.178”: 
 <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/g26wWUY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
