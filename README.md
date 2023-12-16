@@ -26,8 +26,12 @@ Checking if we can ping each other. :  <br/>
 <img src="https://imgur.com/oSEbR7Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+After connecting, we can use iperf on both the host and the client to monitor the
+connectivity, recording TCP connection statistics such as Interval, Transfer and
+Bandwidth. The command (iperf -s) was used to host a server. The following image
+shows 192.168.65.178 (Anaaf) receiving TCP packets which are sent by
+192.168.65.61 (Kunhuan): <br/> <br/> <br/>
+<img src="https://imgur.com/H9BQ7ZM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
