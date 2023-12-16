@@ -22,8 +22,8 @@ A small network was created with 4 users and a switch: <br/>
 <img src="https://imgur.com/uxAe1AO.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Checking if we can ping each other. :  <br/>
+<img src="https://imgur.com/oSEbR7Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
