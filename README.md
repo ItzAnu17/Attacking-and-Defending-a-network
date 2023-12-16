@@ -59,11 +59,10 @@ running.
 TCP Flooding Attack:  <br/>
 TCP Flooding attack was done in a similar way, the command was “$sudo hping3
 192.168.65.178 -S -p 22 --flood”
-
-<img https://imgur.com/WeTxCFf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/WeTxCFf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<!--
+<!-- 
  ```diff
 - text in red
 + text in green
