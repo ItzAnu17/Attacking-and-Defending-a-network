@@ -92,6 +92,24 @@ We expected that we will not see any ICMP from the attackers IP, however this is
 <img src="https://imgur.com/i1u98p9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://imgur.com/vcUcb71.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+Firewall for TCP flooding attack:  <br/>
+<br/>
+<br/>
+The rules used in the firewall for this attack::
+<br/>
+<br/>
+<img src="https://imgur.com/jNXDmZK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+The previous ICMP rules were removed, and the new rules added to prevent TCP
+Flood attack by limiting the rate and dropping the packets.
+After we performed a TCP flooding attack again, the results we got are different from
+level3, so the firewall should be working:
+<br/>
+<br/>
+<img src="https://imgur.com/fTdH5IT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 
 </p>
 
