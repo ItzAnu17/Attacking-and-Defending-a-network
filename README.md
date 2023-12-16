@@ -72,6 +72,14 @@ we implemented the rules in iptable command. The rules are:
 <br/>
 <br/>
 <img src="https://imgur.com/zoicLIM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+These rules will block every incoming ICMP packet from the specified IP addresses and
+limit the ICMP packet rate. After we performed an ICMP flooding attack again, “No
+response” packets were sniffed, which is different from level 3’s results, so we assume
+the firewalls are functioning.  <br/>
+
+<img src="https://imgur.com/zoicLIM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!-- 
