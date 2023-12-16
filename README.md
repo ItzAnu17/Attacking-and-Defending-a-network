@@ -30,7 +30,7 @@ After connecting, we can use iperf on both the host and the client to monitor th
 connectivity, recording TCP connection statistics such as Interval, Transfer and
 Bandwidth. The command (iperf -s) was used to host a server. The following image
 shows 192.168.65.178 (Anaaf) receiving TCP packets which are sent by
-192.168.65.61 (Kunhuan): <br/> <br/> <br/>
+192.168.65.61 (Kunhuan): <br/>
 <img src="https://imgur.com/H9BQ7ZM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
