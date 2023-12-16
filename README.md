@@ -23,7 +23,7 @@ A small network was created with 4 users and a switch: <br/>
 <br />
 <br />
 Checking if we can ping each other. :  <br/>
-<img src="https://imgur.com/oSEbR7Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/oSEbR7Z.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 After connecting, we can use iperf on both the host and the client to monitor the
@@ -31,10 +31,12 @@ connectivity, recording TCP connection statistics such as Interval, Transfer and
 Bandwidth. The command (iperf -s) was used to host a server. The following image
 shows 192.168.65.178 (Anaaf) receiving TCP packets which are sent by
 192.168.65.61 (Kunhuan): <br/>
-<img src="https://imgur.com/H9BQ7ZM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/H9BQ7ZM.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+ICMP flooding attack.
+Two devices were used to attack a single PC. By using the command “$sudo hping3 -1 -flood 192.168.65.178”: 
+<br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
