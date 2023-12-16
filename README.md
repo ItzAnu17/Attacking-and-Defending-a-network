@@ -1,9 +1,8 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Attacking anf monitoring a network</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
-<h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+<h2>Description of the Project</h2>
+The goal of the project is to create a small network, analyse ICMP and TCP packets which are incoming and ongoing within the network. Later, attack a user’s device and analyse the packets and see any changes from before. And finally, to implement a firewall to prevent TCP and ICMP flooding attack.
 <br />
 
 
