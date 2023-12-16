@@ -8,12 +8,12 @@ The goal of the project is to create a small network, analyse ICMP and TCP packe
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Bash</b> 
+- <b>Wireshark</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Kali Linux</b> 
 
 <h2>Program walk-through:</h2>
 
